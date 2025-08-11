@@ -56,9 +56,9 @@ const PRODUCTS = [
   },
   {
     id: "gwn-06",
-    name: "Echo Rim",
+    name: "Eclipsé",
     price: 89.99,
-    tags: ["vintage","durable"],
+    tags: ["modern","faahion"],
     images: [
       "glasses/6a.PNG",
       "glasses/6b.PNG"
@@ -133,14 +133,14 @@ const PRODUCTS = [
   },
   {
     id: "gwn-13",
-    name: "Shadow Mist",
+    name: "Shadow Glaze",
     price: 102.99,
-    tags: ["mystery","sleek"],
+    tags: ["mystery","stylish"],
     images: [
       "glasses/13a.PNG",
       "glasses/13b.PNG"
     ],
-    desc: "Sleek matte-finish sunglasses with gradient smoke lenses."
+    desc: "Stylish matte-finish sunglasses with gradient smoke lenses."
   },
   {
     id: "gwn-14",
